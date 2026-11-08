@@ -1,0 +1,9 @@
+# Secrets - NEVER upload these
+.env
+
+# Python junk
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
